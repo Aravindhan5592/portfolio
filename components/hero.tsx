@@ -20,8 +20,8 @@ export function Hero() {
                 transition={{ duration: 0.8 }}
                 className="space-y-8 max-w-4xl relative z-10"
             >
-                <div className="relative w-32 h-32 md:w-40 md:h-40 mx-auto mb-8 rounded-full p-1 bg-gradient-to-r from-neon-purple to-neon-cyan shadow-[0_0_30px_rgba(168,85,247,0.3)]">
-                    <div className="w-full h-full rounded-full overflow-hidden bg-slate-900 border-4 border-slate-900 relative">
+                <div className="relative w-32 h-32 md:w-40 md:h-40 mx-auto mb-8 rounded-3xl p-1 bg-gradient-to-r from-neon-purple to-neon-cyan shadow-[0_0_30px_rgba(168,85,247,0.3)]">
+                    <div className="w-full h-full rounded-[20px] overflow-hidden bg-slate-900 border-4 border-slate-900 relative">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                             src="/images/profile.jpg"

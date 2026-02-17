@@ -1,0 +1,95 @@
+{
+    "profile": {
+        "name": "Aravindhan M",
+        "headline": "Software developer at Llyods Banking Group | Lead Google Developer Groups Cloud Madurai",
+        "location": "Madurai, Tamil Nadu, India",
+        "summary": "Java back end developer having 10 years of Information Technology experience. Strong knowledge in Google Cloud Platform. Areas of expertise include Webservices, Google App Engine, Servlets. Knowledge about server-side programming, design patterns, and software architecture. Skills in problem-solving, work ethics, interpersonal communication, and DevOps technologies.",
+        "email": "contact@example.com",
+        "linkedin": "https://www.linkedin.com/in/aravindhan-m-ba371aa7"
+    },
+    "experience": [
+        {
+            "company": "Lloyds Banking Group",
+            "role": "Senior Software Engineer",
+            "duration": "Jun 2025 - Present",
+            "location": "Hyderabad, Telangana, India",
+            "description": "contributing to financial technology and driving digital innovation in banking."
+        },
+        {
+            "company": "Citi",
+            "role": "Software Engineer",
+            "duration": "Aug 2022 - Jun 2025",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": "Worked on impactful projects and grew alongside colleagues."
+        },
+        {
+            "company": "Bank of America",
+            "role": "Senior Analyst",
+            "duration": "May 2021 - Aug 2022",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": ""
+        },
+        {
+            "company": "Bank of America",
+            "role": "Analyst - apps prog",
+            "duration": "Oct 2018 - May 2021",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": ""
+        },
+        {
+            "company": "Syntel",
+            "role": "Software Engineer",
+            "duration": "Apr 2017 - Oct 2018",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": ""
+        },
+        {
+            "company": "Tringapps, Inc",
+            "role": "Research Associate",
+            "duration": "Jul 2014 - Apr 2017",
+            "location": "Chennai Area, India",
+            "description": ""
+        }
+    ],
+    "skills": {
+        "technologies": [
+            "Java",
+            "J2EE",
+            "Spring Boot",
+            "Jersey",
+            "Google Cloud Platform",
+            "App Engine",
+            "Compute Engine"
+        ],
+        "devops": [
+            "Jenkins",
+            "Ansible",
+            "Maven",
+            "Gradle",
+            "Docker",
+            "Kubernetes",
+            "GKE"
+        ],
+        "tools": [
+            "Eclipse",
+            "IntelliJ",
+            "Git",
+            "Postman",
+            "Splunk",
+            "Dynatrace"
+        ],
+        "ai": [
+            "LLMs",
+            "AI Agents",
+            "Gemini",
+            "Pair Programming"
+        ]
+    },
+    "volunteering": [
+        {
+            "role": "Lead Organizer",
+            "organization": "Google Developer Groups Cloud Madurai",
+            "description": "Fostering a vibrant cloud developer ecosystem. Organizing AI conferences, tech talks, and community events."
+        }
+    ]
+}

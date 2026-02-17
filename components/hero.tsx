@@ -42,7 +42,7 @@ export function Hero() {
                 <h1 className="text-5xl md:text-8xl font-bold tracking-tight text-white leading-tight">
                     Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-slate-400">{profile.name}</span>. <br />
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-cyan">
-                        Building cloud-native solutions.
+                        Building AI native solutions.
                     </span>
                 </h1>
 

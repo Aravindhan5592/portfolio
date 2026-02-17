@@ -91,7 +91,9 @@
         {
             "role": "Lead Organizer",
             "organization": "Google Developer Groups Cloud Madurai",
-            "description": "Fostering a vibrant cloud developer ecosystem. Organizing AI conferences, tech talks, and community events."
+            "description": "Fostering a vibrant cloud developer ecosystem. Organizing AI conferences, tech talks, and community events.",
+            "url": "https://gdg.community.dev/gdg-cloud-madurai/",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png"
         }
     ]
 }

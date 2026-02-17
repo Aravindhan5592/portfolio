@@ -20,6 +20,25 @@ export function Hero() {
                 transition={{ duration: 0.8 }}
                 className="space-y-8 max-w-4xl relative z-10"
             >
+                <div className="relative w-32 h-32 md:w-40 md:h-40 mx-auto mb-8 rounded-full p-1 bg-gradient-to-r from-neon-purple to-neon-cyan shadow-[0_0_30px_rgba(168,85,247,0.3)]">
+                    <div className="w-full h-full rounded-full overflow-hidden bg-slate-900 border-4 border-slate-900 relative">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                            src="/images/profile.jpg"
+                            alt={profile.name}
+                            className="w-full h-full object-cover"
+                            onError={(e) => {
+                                // Fallback to initials if image fails to load
+                                e.currentTarget.style.display = 'none';
+                                e.currentTarget.nextElementSibling?.classList.remove('hidden');
+                            }}
+                        />
+                        <div className="hidden absolute inset-0 flex items-center justify-center bg-slate-800 text-4xl font-bold text-slate-500">
+                            {profile.name.charAt(0)}
+                        </div>
+                    </div>
+                </div>
+
                 <h1 className="text-5xl md:text-8xl font-bold tracking-tight text-white leading-tight">
                     Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-slate-400">{profile.name}</span>. <br />
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-cyan">

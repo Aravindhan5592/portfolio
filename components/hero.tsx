@@ -18,11 +18,6 @@ export function Hero() {
                 transition={{ duration: 0.8 }}
                 className="space-y-8 max-w-4xl relative z-10"
             >
-                <div className="inline-flex items-center rounded-full border border-slate-700/50 bg-slate-800/30 px-4 py-1.5 text-sm text-slate-300 backdrop-blur-md shadow-lg shadow-neon-purple/5">
-                    <span className="flex h-2 w-2 rounded-full bg-neon-cyan mr-3 animate-pulse shadow-[0_0_10px_#06b6d4]"></span>
-                    Available for new opportunities
-                </div>
-
                 <h1 className="text-5xl md:text-8xl font-bold tracking-tight text-white leading-tight">
                     Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-slate-400">{profile.name}</span>. <br />
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-cyan">

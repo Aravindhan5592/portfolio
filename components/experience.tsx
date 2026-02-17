@@ -1,3 +1,5 @@
+"use client";
+
 import { Section } from "@/components/ui/section";
 import data from "@/data/profile.json";
 import { Briefcase } from "lucide-react";

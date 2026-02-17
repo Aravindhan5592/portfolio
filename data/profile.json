@@ -56,7 +56,9 @@
             "Java",
             "J2EE",
             "Spring Boot",
-            "Jersey",
+            "Jersey"
+        ],
+        "cloud": [
             "Google Cloud Platform",
             "App Engine",
             "Compute Engine"

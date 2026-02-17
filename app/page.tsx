@@ -5,7 +5,7 @@ import { Volunteering } from "@/components/volunteering";
 
 export default function Home() {
     return (
-        <main className="bg-primary min-h-screen text-slate-200 selection:bg-accent/30 selection:text-white">
+        <main className="min-h-screen bg-slate-950 text-slate-200 selection:bg-neon-purple selection:text-white">
             <Hero />
             <Skills />
             <Experience />

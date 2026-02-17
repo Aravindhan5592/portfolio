@@ -1,6 +1,6 @@
 import { Section } from "@/components/ui/section";
 import data from "@/data/profile.json";
-import { ArrowRight, Github, Linkedin, Mail } from "lucide-react";
+import { Linkedin, Mail } from "lucide-react";
 
 export function Hero() {
     const { profile } = data;
